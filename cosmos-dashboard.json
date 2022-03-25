@@ -35,7 +35,7 @@
             "type": "row"
         },
         {
-            "content": "<img width=\"160px\" src=\"https://raw.githubusercontent.com/zhangyelong/cosmos-dashboard/master/logo/$chain_id.png\" />",
+            "content": "<img width=\"160px\" src=\"https://raw.githubusercontent.com/stakingdata/cosmos-dashboard/master/logo/$chain_id.png\" />",
             "datasource": null,
             "gridPos": {
                 "h": 2,
